@@ -1,4 +1,4 @@
-//basic if else and switch case in java
+//basic if else and switch case in  java
 public class Conditionals{
 	public static void main(String[] args){
 		
